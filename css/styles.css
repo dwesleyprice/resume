@@ -1,0 +1,19 @@
+h1{
+	font-size: 30px;
+}
+.space {
+	padding-top: 20px;
+}
+
+.left-para, .right-para{
+	padding-bottom: 10px;
+}
+
+#logo {
+	font-family: 'Rock Salt', cursive;
+	font-size: 40px;
+}
+
+.btn-primary{
+	background-color: darkcyan;
+}
